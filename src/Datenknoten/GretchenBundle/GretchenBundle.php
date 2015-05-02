@@ -1,6 +1,6 @@
 <?php
 
-namespace Datenknoten\Bundle;
+namespace Datenknoten\GretchenBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace Datenknoten\Bundle\DependencyInjection;
+namespace Datenknoten\GretchenBundle\DependencyInjection;
 
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\Config\FileLocator;
